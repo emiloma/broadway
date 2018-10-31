@@ -1,5 +1,14 @@
-#titulo{
+#body{
 
   text-align: center;
+  width: 1000px;
+  margin: auto;
+
+}
+
+#titulo{
+
+  background-image: url("/resources/media/broadway.png")
+
 
 }

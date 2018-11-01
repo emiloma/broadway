@@ -1,4 +1,4 @@
-#body{
+.body{
 
   text-align: center;
   width: 2200px;
@@ -12,6 +12,8 @@
   background-position: center;
   background-size: 1900px;
   background-repeat: no-repeat;
+  margin-left: 187px;
+  margin-right: 187px;
 
 }
 
@@ -64,12 +66,14 @@
 
 #pie{
 
-  font-family: helvetica, cursive;
+  font-family: helvetica, serif;
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  width: 2200px;
-  margin: auto;
+  margin-left: 187px;
+  margin-right: 187px;
+
+}
 
 }
 

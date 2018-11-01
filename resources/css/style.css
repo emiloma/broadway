@@ -1,14 +1,80 @@
 #body{
 
   text-align: center;
-  width: 1000px;
+  width: 2200px;
   margin: auto;
 
 }
 
 #titulo{
 
-  background-image: url("/resources/media/broadway.png")
+  background-image: url("../media/broadway.png");
+  background-position: center;
+  background-size: 1900px;
+  background-repeat: no-repeat;
 
+}
+
+.tittle{
+
+  font-family: helvetica,cursive;
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+
+}
+
+.subtitle{
+
+  font-family: helvetica, cursive;
+  font-size: 15px;
+  color: white;
+  text-decoration: underline;
+}
+
+.our{
+
+  font-family: helvetica, cursive;
+  font-size: 25px;
+  font-weight: bold;
+
+}
+
+.subtitle2{
+
+  font-family: helvetica,cursive;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+.parrafos{
+
+  font-family: helvetica, cursive;
+  font-size: 14px;
+
+}
+
+#titulo2{
+
+  background-image: url("../media/broadway.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#pie{
+
+  font-family: helvetica, cursive;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  width: 2200px;
+  margin: auto;
+
+}
+
+.subrayado{
+
+  text-decoration: underline;
 
 }

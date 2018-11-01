@@ -10,8 +10,8 @@
   background-position: center;
   background-size: 1900px;
   background-repeat: no-repeat;
-  margin-left: 187px;
-  margin-right: 187px;
+  /*margin-left: 187px;
+  margin-right: 187px;*/
 
 }
 
@@ -60,8 +60,7 @@
   background-image: url("../media/broadway.png");
   background-position: center;
   background-repeat: no-repeat;
-  margin-left: 187px;
-  margin-right: 187px;
+  
 }
 
 #pie{
@@ -70,8 +69,8 @@
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  margin-left: 187px;
-  margin-right: 187px;
+  /*margin-left: 187px;
+  margin-right: 187px;*/
   text-align: left;
 
 }

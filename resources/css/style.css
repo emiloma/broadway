@@ -1,8 +1,6 @@
 .body{
 
   text-align: center;
-  width: 2200px;
-  margin: auto;
 
 }
 
@@ -62,6 +60,8 @@
   background-image: url("../media/broadway.png");
   background-position: center;
   background-repeat: no-repeat;
+  margin-left: 187px;
+  margin-right: 187px;
 }
 
 #pie{
@@ -72,6 +72,7 @@
   background-color: dimgray;
   margin-left: 187px;
   margin-right: 187px;
+  text-align: left;
 
 }
 
